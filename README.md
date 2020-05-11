@@ -1,2 +1,2 @@
 # Decov-Design
-Application &amp; Website Designs &amp; ClipArts for the DECOV Megahackathon
+Application, Website Designs, Clip Arts &amp; Posters for the DECOV Megahackathon
